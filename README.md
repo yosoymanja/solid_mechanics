@@ -1,9 +1,9 @@
 # Solid mechanics tools
 
-Teaching tools for the solid mechanics class at EAFIT University.
+Herramientas para el curso de mecánica de sólidos de la Universidad EAFIT.
 
-## Contents
+## Contenido
 
-1. [Mohr circle and stress paths](./notebooks/mohr_circles.ipynb)
+1. [Círculo de Mohr y círculo de tracciones](./notebooks/mohr_circles.ipynb)
 
 © 2022 Daniel F. Ruiz, Exneyder A. Montoya-Araque and Universidad EAFIT.

@@ -5,6 +5,7 @@ Herramientas para el curso de mecánica de sólidos de la Universidad EAFIT.
 ## Contenido
 
 1. [Círculo de Mohr y círculo de tracciones](./notebooks/mohr_circles.ipynb)
+1. [Comparación de modelos cargados axialmente](./notebooks/uniaxial_load_comparison.ipynb)
 
 ## Licencia
 
